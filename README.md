@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="SeatSinister — code, interfaces, security" width="100%" />
+  <img src="banner.svg?v=2" alt="SeatSinister — code, interfaces, security" width="100%" />
 </p>
 
 <h2 align="center">Привет, я SeatSinister 👋</h2>
