@@ -20,7 +20,6 @@
 | :--- | :--- |
 | [Windows Login Camera](https://github.com/SeatSinister/windows-login-camera) | Фото с веб-камеры при неверном входе в Windows. |
 | [Standard ImGui Interface](https://github.com/SeatSinister/Standard-ImGui-interface) | Эксперименты с интерфейсом на ImGui. |
-| [Simple Authorization ImGui](https://github.com/SeatSinister/Simple-Authorization-ImGui) | Пример экрана авторизации на ImGui. |
 | [Anti CTF Tasks](https://github.com/SeatSinister/anti-ctf-tasks) | Задачи и заметки по CTF. |
 
 <p align="center"><sub>Собираю идеи, пишу код и учусь на каждом проекте.</sub></p>
